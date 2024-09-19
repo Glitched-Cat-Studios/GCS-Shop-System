@@ -1,3 +1,4 @@
+[![openupm](https://img.shields.io/npm/v/com.glitchedcatstudios.shop-system?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.glitchedcatstudios.shop-system/)
 # GCS Shop System
 A simple cart system for your Gorila Tag Fan Game, made by Glitched Cat Studios!
 
