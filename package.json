@@ -1,8 +1,8 @@
 {
   "name": "com.glitchedcatstudios.shop-system",
   "displayName": "GCS Shop System",
-  "version": "1.0.0",
-  "unity": "2021.3",
+  "version": "1.0.1",
+  "unity": "2022.3.16",
   "description": "A simple cart system for your Gorila Tag Fan Game, made by Glitched Cat Studios!",
   "author": {
     "name": "Glitched Cat Studios",
